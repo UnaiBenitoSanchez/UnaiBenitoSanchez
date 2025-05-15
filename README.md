@@ -1,6 +1,9 @@
 <h1 align="center">Hola, soy Unai Benito Sánchez</h1>
 <h3 align="center">Desarrollador web con pasión por el diseño limpio y la tecnología </h3>
 
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 ---
 
 ### Sobre mí
