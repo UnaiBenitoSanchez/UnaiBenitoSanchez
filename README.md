@@ -38,7 +38,7 @@
 ### 🚀 Proyecto destacado
 
 - 🏭 **TFG_FactoryManagement**  
-  Sistema de gestión de fábricas para facilitar el control y seguimiento de procesos industriales.
+  <a href="https://github.com/UnaiBenitoSanchez/TFG_UnaiBenito_FactoryManagement">Sistema de gestión de fábricas para facilitar el control y seguimiento de procesos industriales.</a>
 
 ---
 
