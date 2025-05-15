@@ -7,9 +7,8 @@
 
 - 🔭 Actualmente trabajando en mejorar mis habilidades como desarrollador
 - 🌱 Aprendiendo más sobre buenas prácticas, arquitectura de software y herramientas modernas
-- 📚 Apasionado por crear soluciones eficientes y elegantes
 - 📫 Puedes encontrarme en LinkedIn (enlace más abajo 👇)
-- ⚡ Fun fact: Siempre busco automatizar cualquier tarea repetitiva
+- ⚡ Siempre busco automatizar cualquier tarea repetitiva
 
 ---
 
@@ -51,4 +50,3 @@
 </p>
 
 ---
-
