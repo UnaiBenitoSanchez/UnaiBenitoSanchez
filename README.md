@@ -1,18 +1,18 @@
-<h1 align="center">Hola 👋, soy Unai Benito Sánchez</h1>
+<h1 align="center">Hola, soy Unai Benito Sánchez</h1>
 <h3 align="center">Desarrollador web con pasión por el diseño limpio y la tecnología 🧠</h3>
 
 ---
 
-### 🧑‍💻 Sobre mí
+### Sobre mí
 
-- 🔭 Actualmente trabajando en mejorar mis habilidades como desarrollador
-- 🌱 Aprendiendo más sobre buenas prácticas, arquitectura de software y herramientas modernas
-- 📫 Puedes encontrarme en LinkedIn (enlace más abajo 👇)
-- ⚡ Siempre busco automatizar cualquier tarea repetitiva
+- Actualmente trabajando en mejorar mis habilidades como desarrollador
+- Aprendiendo más sobre buenas prácticas, arquitectura de software y herramientas modernas
+- Puedes encontrarme en LinkedIn (enlace más abajo)
+- Siempre busco automatizar cualquier tarea repetitiva
 
 ---
 
-### 🛠️ Tecnologías que uso
+### Tecnologías que uso
 
 <div style="display: flex; gap: 6px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -25,7 +25,7 @@
 
 ---
 
-### 📈 Estadísticas de GitHub
+### Estadísticas de GitHub
 
 <p align="center">
   <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph/?username=UnaiBenitoSanchez&bg_color=2E1C47&color=F8A1C2&line=E3456F&point=A1E98D&hide_border=true" alt="UnaiBenitoSanchez"/>
@@ -35,14 +35,14 @@
 
 ---
 
-### 🚀 Proyecto destacado
+### Proyecto destacado
 
-- 🏭 **TFG_FactoryManagement**  
+- **TFG_FactoryManagement**  
   <a href="https://github.com/UnaiBenitoSanchez/TFG_UnaiBenito_FactoryManagement">Sistema de gestión de fábricas.</a>
 
 ---
 
-### 🌐 Conecta conmigo
+### Conecta conmigo
 
 <p>
   <a href="https://www.linkedin.com/in/unai-benito-s%C3%A1nchez-91a1042ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
