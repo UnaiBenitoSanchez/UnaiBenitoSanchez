@@ -30,6 +30,7 @@
 <p align="center">
   <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph/?username=UnaiBenitoSanchez&bg_color=2E1C47&color=F8A1C2&line=E3456F&point=A1E98D&hide_border=true" alt="UnaiBenitoSanchez"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=UnaiBenitoSanchez&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="UnaiBenitoSanchez"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnaiBenitoSanchez&layout=compact&theme=radical" />
 </p>
 
 ---
