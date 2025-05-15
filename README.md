@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Unai Benito Sánchez</h1>
-<h3 align="center">Desarrollador web con pasión por la eficiencia, el diseño limpio y la tecnología 🧠</h3>
+<h3 align="center">Desarrollador web con pasión por el diseño limpio y la tecnología 🧠</h3>
 
 ---
 
@@ -45,12 +45,10 @@
 ### 🌐 Conecta conmigo
 
 <p>
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN-AQUÍ" target="_blank">
+  <a href="https://www.linkedin.com/in/unai-benito-s%C3%A1nchez-91a1042ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
-
-> ✨ Este perfil es tu escaparate como desarrollador. Manténlo actualizado, destaca tus logros, y sobre todo... ¡disfruta compartiendo tu código!
 
