@@ -32,7 +32,6 @@
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
 </div>
 
-
 ---
 
 ### Estadísticas de GitHub
