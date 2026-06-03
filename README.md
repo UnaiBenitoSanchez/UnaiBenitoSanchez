@@ -50,7 +50,7 @@
 - **TFG_FactoryManagement**  
   <a href="https://github.com/UnaiBenitoSanchez/TFG_UnaiBenito_FactoryManagement">Sistema de gestión de fábricas.</a>
 - **AIDungeonMaster**  
-  <a href="https://github.com/UnaiBenitoSanchez/AIDungeonMaster_2-DAM_TFG">Aplicación de rol on IA como motor narrativo.</a>
+  <a href="https://github.com/UnaiBenitoSanchez/AIDungeonMaster_2-DAM_TFG">Aplicación de rol con IA generativa como motor narrativo.</a>
 
 ---
 
