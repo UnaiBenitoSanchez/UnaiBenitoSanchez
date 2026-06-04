@@ -106,7 +106,7 @@ contact:
 
 <p align="center">
   <a href="https://github.com/UnaiBenitoSanchez/TFG_UnaiBenito_FactoryManagement">
-    <img src="project-factory.svg" width="440" alt="Factory Management"/>
+    <img src="project-toy_factory.svg" width="440" alt="Factory Management"/>
   </a>
   <a href="https://github.com/UnaiBenitoSanchez/AIDungeonMaster_2-DAM_TFG">
     <img src="project-ai.svg" width="440" alt="AI Dungeon Master"/>
