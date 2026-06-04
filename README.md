@@ -123,9 +123,8 @@ contact:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UnaiBenitoSanchez&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&v=1" height="150" alt="GitHub stats"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnaiBenitoSanchez&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=c4b5fd&v=1" height="150" alt="Top langs"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=UnaiBenitoSanchez&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="UnaiBenitoSanchez"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnaiBenitoSanchez&layout=compact&theme=radical"/>
 </p>
 
 ---
