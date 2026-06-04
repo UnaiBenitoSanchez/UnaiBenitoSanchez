@@ -1,0 +1,104 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes float1  { 0%{transform:translateY(0)  translateX(0);   opacity:0} 10%{opacity:.7} 90%{opacity:.3} 100%{transform:translateY(-170px) translateX(12px); opacity:0} }
+      @keyframes float2  { 0%{transform:translateY(0)  translateX(0);   opacity:0} 10%{opacity:.5} 90%{opacity:.2} 100%{transform:translateY(-150px) translateX(-10px);opacity:0} }
+      @keyframes float3  { 0%{transform:translateY(0)  translateX(0);   opacity:0} 10%{opacity:.6} 90%{opacity:.25}100%{transform:translateY(-190px) translateX(6px); opacity:0} }
+      @keyframes pulse   { 0%,100%{opacity:1} 50%{opacity:0} }
+      @keyframes fadein  { from{opacity:0;transform:translateY(10px)} to{opacity:1;transform:translateY(0)} }
+      @keyframes scan    { 0%{transform:translateY(0);opacity:.04} 50%{opacity:.1} 100%{transform:translateY(222px);opacity:.04} }
+      @keyframes shimmer { 0%,100%{opacity:.2} 50%{opacity:.5} }
+      .t { animation:fadein .8s ease .4s both }
+      .s { animation:fadein .8s ease .9s both }
+      .s2{ animation:fadein .8s ease 1.3s both }
+      .cur{ animation:pulse 1s step-end infinite }
+      .sc { animation:scan 5s linear infinite }
+      .sh { animation:shimmer 4s ease-in-out infinite }
+    </style>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0%"   stop-color="#0b091d"/>
+      <stop offset="45%"  stop-color="#130f30"/>
+      <stop offset="100%" stop-color="#0a0818"/>
+    </linearGradient>
+    <linearGradient id="gl" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#7c3aed" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#a78bfa" stop-opacity=".35"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="gl2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#7c3aed" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#c4b5fd" stop-opacity=".15"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="220" fill="url(#bg)" rx="12"/>
+
+  <!-- subtle grid -->
+  <g stroke="#1e1545" stroke-width=".5" opacity=".5">
+    <line x1="0" y1="55"  x2="900" y2="55"/>
+    <line x1="0" y1="110" x2="900" y2="110"/>
+    <line x1="0" y1="165" x2="900" y2="165"/>
+    <line x1="150" y1="0" x2="150" y2="220"/>
+    <line x1="300" y1="0" x2="300" y2="220"/>
+    <line x1="450" y1="0" x2="450" y2="220"/>
+    <line x1="600" y1="0" x2="600" y2="220"/>
+    <line x1="750" y1="0" x2="750" y2="220"/>
+  </g>
+
+  <!-- glow lines -->
+  <rect class="sh" x="0" y="109" width="900" height="1.5" fill="url(#gl)"/>
+  <rect x="100" y="185" width="700" height=".5" fill="url(#gl2)"/>
+
+  <!-- scanline -->
+  <rect class="sc" x="0" y="0" width="900" height="2.5" fill="#a78bfa" rx="1"/>
+
+  <!-- border glow corners -->
+  <rect x="0" y="0" width="900" height="220" fill="none" stroke="#2d1f5e" stroke-width="1" rx="12"/>
+  <rect x="1" y="1" width="898" height="218" fill="none" stroke="#4a2fa0" stroke-width=".5" stroke-opacity=".4" rx="11"/>
+
+  <!-- corner marks -->
+  <g fill="none" stroke="#5b3fc0" stroke-width="1.5" opacity=".6">
+    <path d="M14 26 L14 14 L26 14"/>
+    <path d="M874 14 L886 14 L886 26"/>
+    <path d="M14 194 L14 206 L26 206"/>
+    <path d="M874 206 L886 206 L886 194"/>
+  </g>
+
+  <!-- particles group 1 -->
+  <circle cx="55"  cy="195" r="1.8" fill="#a78bfa" style="animation:float1 6.2s linear 0s    infinite"/>
+  <circle cx="110" cy="200" r="1.2" fill="#c4b5fd" style="animation:float2 7.1s linear 1.1s  infinite"/>
+  <circle cx="175" cy="190" r="2"   fill="#7c3aed" style="animation:float3 5.4s linear 0.4s  infinite"/>
+  <circle cx="240" cy="197" r="1.4" fill="#a78bfa" style="animation:float1 8.0s linear 2.0s  infinite"/>
+  <circle cx="310" cy="202" r="1"   fill="#e0d7ff" style="animation:float2 6.8s linear 0.7s  infinite"/>
+  <circle cx="375" cy="193" r="1.8" fill="#a78bfa" style="animation:float3 7.5s linear 3.1s  infinite"/>
+  <circle cx="445" cy="198" r="1.2" fill="#7c3aed" style="animation:float1 5.8s linear 1.6s  infinite"/>
+  <circle cx="510" cy="202" r="1"   fill="#c4b5fd" style="animation:float2 9.0s linear 0.2s  infinite"/>
+  <circle cx="575" cy="192" r="2"   fill="#a78bfa" style="animation:float3 6.3s linear 2.4s  infinite"/>
+  <circle cx="640" cy="199" r="1.4" fill="#e0d7ff" style="animation:float1 7.8s linear 1.0s  infinite"/>
+  <circle cx="705" cy="195" r="1.6" fill="#7c3aed" style="animation:float2 6.0s linear 3.5s  infinite"/>
+  <circle cx="770" cy="200" r="1"   fill="#a78bfa" style="animation:float3 7.2s linear 0.6s  infinite"/>
+  <circle cx="835" cy="190" r="1.8" fill="#c4b5fd" style="animation:float1 5.6s linear 1.8s  infinite"/>
+  <circle cx="880" cy="197" r="1.2" fill="#7c3aed" style="animation:float2 8.3s linear 0.9s  infinite"/>
+  <!-- second layer deeper -->
+  <circle cx="85"  cy="180" r="1"   fill="#c4b5fd" style="animation:float1 9.1s linear 4.0s  infinite"/>
+  <circle cx="290" cy="178" r="1.2" fill="#a78bfa" style="animation:float3 7.0s linear 1.9s  infinite"/>
+  <circle cx="480" cy="182" r="1"   fill="#e0d7ff" style="animation:float2 6.5s linear 3.8s  infinite"/>
+  <circle cx="660" cy="176" r="1.4" fill="#a78bfa" style="animation:float1 8.5s linear 2.7s  infinite"/>
+  <circle cx="810" cy="180" r="1"   fill="#7c3aed" style="animation:float3 5.9s linear 4.3s  infinite"/>
+
+  <!-- prompt -->
+  <text x="28" y="88" font-family="'Courier New',monospace" font-size="12" fill="#5b3fc0" opacity=".9">~/unai $</text>
+
+  <!-- main title -->
+  <text class="t" x="450" y="115" text-anchor="middle" font-family="'Courier New',monospace" font-size="34" font-weight="bold" fill="#ede9fe" letter-spacing="2">Unai Benito Sánchez</text>
+
+  <!-- blinking cursor -->
+  <rect class="cur" x="703" y="89" width="3" height="26" fill="#a78bfa" rx="1"/>
+
+  <!-- subtitle 1 -->
+  <text class="s" x="450" y="143" text-anchor="middle" font-family="'Courier New',monospace" font-size="12" fill="#a78bfa" letter-spacing="4">SOFTWARE DEVELOPER  ·  FULL STACK</text>
+
+  <!-- subtitle 2 -->
+  <text class="s2" x="450" y="163" text-anchor="middle" font-family="'Courier New',monospace" font-size="10" fill="#5b3fc0" letter-spacing="3">WEB  ·  CROSS-PLATFORM APPLICATIONS</text>
+</svg>
