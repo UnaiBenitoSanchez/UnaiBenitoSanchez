@@ -122,8 +122,7 @@ contact:
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=UnaiBenitoSanchez&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="UnaiBenitoSanchez Stats"/>
-  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UnaiBenitoSanchez&layout=compact&theme=radical" alt="Top Langs"/>
+  <img src="stats.svg" width="900" alt="GitHub Stats"/>
 </p>
 
 ---
@@ -147,6 +146,5 @@ contact:
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn"/>
-<sub><code>© Unai Benito Sánchez</code></sub>
+<img src="footer.svg" width="900" alt="footer"/>
 </div>
