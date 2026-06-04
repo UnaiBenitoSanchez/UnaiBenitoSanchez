@@ -150,5 +150,5 @@ contact:
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn"/>
-<sub><code>© Unai Benito Sánchez — Built with logic, caffeine &amp; too many open tabs</code></sub>
+<sub><code>© Unai Benito Sánchez</code></sub>
 </div>
