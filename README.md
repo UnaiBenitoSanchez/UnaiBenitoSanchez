@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=".github/assets/header.svg" width="900" alt="Unai Benito Sánchez — Software Developer"/>
+<img src="header.svg" width="900" alt="Unai Benito Sánchez — Software Developer"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src=".github/assets/terminal.svg" width="900" alt="terminal intro"/>
+<img src="terminal.svg" width="900" alt="terminal intro"/>
 
 </div>
 
@@ -106,11 +106,11 @@ contact:
 
 <p align="center">
   <a href="https://github.com/UnaiBenitoSanchez/TFG_UnaiBenito_FactoryManagement">
-    <img src=".github/assets/project-factory.svg" width="440" alt="Factory Management"/>
+    <img src="project-factory.svg" width="440" alt="Factory Management"/>
   </a>
   &nbsp;
   <a href="https://github.com/UnaiBenitoSanchez/AIDungeonMaster_2-DAM_TFG">
-    <img src=".github/assets/project-ai.svg" width="440" alt="AI Dungeon Master"/>
+    <img src="project-ai.svg" width="440" alt="AI Dungeon Master"/>
   </a>
 </p>
 
