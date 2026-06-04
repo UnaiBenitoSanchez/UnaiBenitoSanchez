@@ -123,8 +123,8 @@ contact:
 </p>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=UnaiBenitoSanchez&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="UnaiBenitoSanchez"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnaiBenitoSanchez&layout=compact&theme=radical"/>
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=UnaiBenitoSanchez&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="UnaiBenitoSanchez Stats"/>
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UnaiBenitoSanchez&layout=compact&theme=radical" alt="Top Langs"/>
 </p>
 
 ---
